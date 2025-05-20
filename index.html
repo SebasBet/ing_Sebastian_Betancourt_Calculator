@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora Física</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Calculadora de Magnitudes Físicas</h1>
+        <select id="operacion">
+            <option value="" selected>Seleccione el calculo</option>
+            <option value="velocidad">Velocidad </option>
+            <option value="aceleracion">Aceleración </option>
+            <option value="fuerza">Fuerza </option>
+            <option value="trabajo">Trabajo </option>
+            <option value="energia_cinetica">Energía Cinética </option>
+            <option value="energia_potencial">Energía Potencial Gravitatoria </option>
+            <option value="densidad">Densidad </option>
+            <option value="presion">Presión </option>
+            <option value="carga_electrica">Carga Eléctrica </option>
+            <option value="ley_ohm">Ley de Ohm</option>
+        </select>
+    <div id="inputs"></div>
+    <button onclick="calcular()">Calcular</button>
+    <p id="resultado"></p>
+    <footer>Hecho por Sebastian Betancourt</footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
