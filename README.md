@@ -1,4 +1,4 @@
-# ing_Sebastian_Calcultor
+# ing_Sebastian_Calculadora_fisica
 
 1. Nombre: Sebastian David Betancourt Casas.
 
