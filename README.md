@@ -2,7 +2,7 @@
 
 1. Nombre: Sebastian David Betancourt Casas.
 
-2. Este proyecto esta hecho con el fin ayudar a calcular multiples calculos de forma automatica, unicamente con la necesidad otorgar al programa las variables
+2. Este proyecto esta hecho con el fin ayudar a elaborar multiples calculos de forma automatica, unicamente con la necesidad otorgar al programa las variables
  necesarias para realizar el procedimiento para cada calculo.
 
 3. Instrucciones: 1. Seleccione el calculo que desea hacer.
